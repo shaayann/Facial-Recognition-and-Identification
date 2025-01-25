@@ -1,4 +1,4 @@
-# Facial-Recognition-and-Identification
+# Facial-Recognition
 
 ## 1. Titles and Sections:
 
